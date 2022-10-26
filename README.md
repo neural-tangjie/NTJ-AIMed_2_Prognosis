@@ -2,7 +2,6 @@
 This repository contains the notes, codes, assignments, quizzes and other additional materials about the course "AI for Medical Prognosis" from DeepLearning.AI Coursera. Enjoy!  <br></br>
 The notes contain the modules outlined below:<br>
 
-
 |Week|Module|Gist|
 |---|---|---|
 |1-1|Introducution to prognostic model|<li>Intro</li><li>Pre-requisites and learning outcomes</li>|
