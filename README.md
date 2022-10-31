@@ -19,8 +19,8 @@ The notes contain the modules outlined below:<br>
 |Q|Survival|~_~|
 |A|Survival Estimates that Vary with Time|^_^|
 |4-1|Survival and hazard functions|<li>Iamge segmentation</li><li>Lab-MRI data and labels</li>|
-|4-2|Customizing risk models to individual patients|<li>Individualized Predictions</li><li>Relative Risk</li><li>Ranking Patients by Risk</li><li>Individual vs Baseline Hazard</li><li>Smoker vs Non-smoker</li><li>Effect of Age on Hazard</li><li>Risk Factor Increase Per Unit Increase in a Variable</li><li>Risk Factor Increase or Decrease</li><li>Hazard Function</li>
+|4-2|Customizing risk models to<br> individual patients|<li>Individualized Predictions</li><li>Relative Risk</li><li>Ranking Patients by Risk</li><li>Individual vs Baseline Hazard</li><li>Smoker vs Non-smoker</li><li>Effect of Age on Hazard</li><li>Risk Factor Increase Per Unit Increase in a Variable</li><li>Risk Factor Increase or Decrease</li><li>Hazard Function</li>
 |4-3|Non-linear risk models with survival trees|<li>Intro to Survival Trees</li><li>Survival Tree</li><li>Nelson Aalen Estimator</li><li>Comparing Risks of Patients</li><li>Mortality Score</li>
 |4-4|Evaluate survival models|<li>Evaluation of Survival Model</li><li>Permissible and Non-Permissible Pairs</li><li>Possible Permissible Pairs</li><li>Example of Harrell's C-Index</li><li>Example of Concordant Pairs</li><li>Permissible Pairs with Censoring and Time</li>
 |Q|9 quetions|~_~|
-|A|Cox Proportional Hazards and Random Survival Forests|^_^|
+|A|Cox Proportional Hazards and<br> Random Survival Forests|^_^|
