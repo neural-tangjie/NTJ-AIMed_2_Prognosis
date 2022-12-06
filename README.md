@@ -24,3 +24,6 @@ The notes contain the modules outlined below:<br>
 |4-4|Evaluate survival models|<li>Evaluation of Survival Model</li><li>Permissible and Non-Permissible Pairs</li><li>Possible Permissible Pairs</li><li>Example of Harrell's C-Index</li><li>Example of Concordant Pairs</li><li>Permissible Pairs with Censoring and Time</li>
 |Q|9 quetions|~_~|
 |A|Cox Proportional Hazards and<br> Random Survival Forests|^_^|
+
+
+“Hope is like the sun, which, as we journey toward it, casts the shadow of our burden behind us.”
